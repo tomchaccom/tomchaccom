@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomchaccom&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tomchaccom&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage" height="200em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomchaccom&layout=compact&theme=radical" height="180em"/>
 </p>
 
