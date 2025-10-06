@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-%231C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/amazon aws-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
