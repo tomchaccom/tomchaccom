@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/amazon aws-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
