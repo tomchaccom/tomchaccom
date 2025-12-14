@@ -1,9 +1,9 @@
-<H2 align="center"> 👋HI THERE! </H2>
+<h2 align="center">👋 Hi, I'm Myungseong Kim</h2>
 
 <!-- Snake -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomchaccom/tomchaccom/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/tomchaccom/tomchaccom/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
