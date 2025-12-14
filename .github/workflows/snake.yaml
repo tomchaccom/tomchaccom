@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ⭐ 필수
+  contents: write   # ⭐ 없으면 100% 실패
 
 jobs:
   build:
