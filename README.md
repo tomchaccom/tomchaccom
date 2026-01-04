@@ -22,7 +22,12 @@
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tomchaccom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+  height="170"
+  src="https://github-readme-stats-five-alpha-36.vercel.app/api?username=tomchaccom&theme=tokyonight&show_icons=true&border_radius=8"
+/>
+
+
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tomchaccom" />
 </p>
 
