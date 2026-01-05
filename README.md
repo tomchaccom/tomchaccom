@@ -23,7 +23,7 @@
 
 <p align="center">
 <img
-  height="170"
+  height="160"
   src="https://github-readme-stats-five-alpha-36.vercel.app/api?username=tomchaccom&theme=tokyonight&show_icons=true&border_radius=8"
 />
 
