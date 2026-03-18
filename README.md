@@ -24,50 +24,47 @@
 ---
 <h2 align="center">💻 My Projects</h2>
 
-<table align="center">
-  <tr>
+<table align="center" width="80%"> <tr>
     <td align="center" width="50%">
       <a href="https://github.com/tomchaccom/Fin_AI_Agent" target="_blank">
-        <img src="https://github.com/user-attachments/assets/10b2ac7c-ab5f-4aaf-9a1a-52e58825ea20" width="100%" alt="Fin-agent"/>
+        <img src="https://github.com/user-attachments/assets/10b2ac7c-ab5f-4aaf-9a1a-52e58825ea20" width="95%" alt="Fin-agent"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/tomchaccom/stopping" target="_blank">
-        <img src="https://github.com/user-attachments/assets/fd4861b6-4493-43ca-8906-2c793db59d9d" width="100%" alt="Stopping"/>
+        <img src="https://github.com/user-attachments/assets/fd4861b6-4493-43ca-8906-2c793db59d9d" width="95%" alt="Stopping"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/YAR-YAR-QUEEN" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0a77d019-288f-4abf-a6b7-ec7180076cdb" width="100%" alt="YAR-YAR-BE"/>
+        <img src="https://github.com/user-attachments/assets/0a77d019-288f-4abf-a6b7-ec7180076cdb" width="95%" alt="YAR-YAR-BE"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Tomo-dev-team/Tomo-BE" target="_blank">
-        <img src="https://github.com/user-attachments/assets/331e7c71-3ba7-4d51-89f9-b52763252db1" width="100%" alt="TOMO"/>
+        <img src="https://github.com/user-attachments/assets/331e7c71-3ba7-4d51-89f9-b52763252db1" width="95%" alt="TOMO"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/memoralary/memoralaxy-BE" target="_blank">
-        <img src="https://github.com/user-attachments/assets/c5891212-ba67-4f24-a7ff-20bd87012265" width="100%" alt="Memoralaxy"/>
+        <img src="https://github.com/user-attachments/assets/c5891212-ba67-4f24-a7ff-20bd87012265" width="95%" alt="Memoralaxy"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/tomchaccom/Nomad" target="_blank">
-        <img src="https://github.com/user-attachments/assets/7ce006cb-fae2-4e84-bac2-b52b426f2de3" width="100%" alt="Nomad"/>
+        <img src="https://github.com/user-attachments/assets/7ce006cb-fae2-4e84-bac2-b52b426f2de3" width="95%" alt="Nomad"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/tomchaccom/today-agenda-is-survival-BE" target="_blank">
-        <img src="https://github.com/user-attachments/assets/317b3175-f1f0-4f6f-a6a1-ee32b5d1d7fb" width="100%" alt="today agenda is survival"/>
+        <img src="https://github.com/user-attachments/assets/317b3175-f1f0-4f6f-a6a1-ee32b5d1d7fb" width="95%" alt="today agenda is survival"/>
       </a>
     </td>
-    <td width="50%"></td>
-  </tr>
+    <td width="50%"></td> </tr>
 </table>
-
