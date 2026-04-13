@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomchaccom/tomchaccom/output/github-contribution-grid-snake.svg?color_snake=%23ffffff&color_dots=%23000000%2C%23000000%2C%23000000%2C%23000000" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tomchaccom/tomchaccom/output/github-contribution-grid-snake.svg?t=1" alt="Snake animation" />
 </p>
 
 ## About Me
