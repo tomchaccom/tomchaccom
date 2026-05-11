@@ -45,11 +45,13 @@ Backend developer interested in building scalable systems and writing clean code
 
 ## GitHub Statistics
 
-<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomchaccom&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true)](https://github.com/tomchaccom)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomchaccom&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</p>
 
 ## Let's Connect
 
